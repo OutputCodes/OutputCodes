@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  
 ### Most used languages :rocket:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrVazguen)](https://github.com/mrVazguen/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes)](https://github.com/mrVazguen/github-readme-stats)
 &nbsp;
 &nbsp;
 ### View :rocket:
