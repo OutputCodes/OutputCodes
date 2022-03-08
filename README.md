@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 ### Used languages :rocket:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes&theme=tokyonight)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes&langs_count=8)](https://github.com/OutputCodes/github-readme-stats) 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes&langs_count=8)](https://github.com/OutputCodes/github-readme-stats) 
 &nbsp;
 <!--
 ###Most visitors
