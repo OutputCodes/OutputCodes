@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-### Used languages :rocket:
+  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes&theme=tokyonight) 
 
  <!--[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OutputCodes&layout=compact)](https://github.com/OutputCodes/github-readme-stats) -->
